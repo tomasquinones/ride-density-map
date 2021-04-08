@@ -7,6 +7,12 @@ Requirements:
 + Plotly Express -- *pip install ploty*
 + Requests module -- *pip install requests*
 
+Running it!
+1. Edit 'api_credentials.py' with your API Key, user, password, whatever
+2. Run `python3 get user_info.py` -- Creates some JSON files with your trip list and more. 
+3. Run `python3 get_triplist.py` -- This downloads all your trip data, this could take a while. 
+4. Run `python3 ride-density-map.py` -- This will process all your JSON files in the 'trips' folder then open in your default browser. This could take a minute depending on how much data you have and your computer. 
+
 
 Notes:
 + You will need your own API key from Ride with GPS. 
