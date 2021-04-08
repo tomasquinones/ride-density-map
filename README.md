@@ -4,8 +4,9 @@ Uses https://plotly.com/python/mapbox-density-heatmaps/
 
 Requirements:
 + Python 3.5
-+ Plotly Express
-++ pip install ploty
++ Plotly Express -- *pip install ploty*
++ Requests module -- *pip install requests*
+
 
 Notes:
 + You will need your own API key from Ride with GPS. 
