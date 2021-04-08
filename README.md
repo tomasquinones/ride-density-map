@@ -28,3 +28,5 @@ Plans:
 + Selector for map type
 + Selector for color scheme
 + Selector for date range
+
+![](https://s3.amazonaws.com/rwgps/screenshots/2021040721-55-10.png)
