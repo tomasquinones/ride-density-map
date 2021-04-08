@@ -1,5 +1,6 @@
 # ride-density-map
 Using Python and Plotly Express to show all my ride data from ridewithgps.com
+Uses https://plotly.com/python/mapbox-density-heatmaps/
 
 Requirements:
 + Python 3.5
