@@ -9,9 +9,10 @@ Requirements:
 
 Running it!
 1. Edit 'api_credentials.py' with your API Key, user, password, whatever
-2. Run `python3 get user_info.py` -- Creates some JSON files with your trip list and more. 
-3. Run `python3 get_triplist.py` -- This downloads all your trip data, this could take a while. 
-4. Run `python3 ride-density-map.py` -- This will process all your JSON files in the 'trips' folder then open in your default browser. This could take a minute depending on how much data you have and your computer. 
+2. You'll need your own Mapbox Token and put it into .mapbox_token file to use the dark map style. 
+3. Run `python3 get user_info.py` -- Creates some JSON files with your trip list and more. 
+4. Run `python3 get_triplist.py` -- This downloads all your trip data, this could take a while. 
+5. Run `python3 ride-density-map.py` -- This will process all your JSON files in the 'trips' folder then open in your default browser. This could take a minute depending on how much data you have and your computer. 
 
 
 Notes:
