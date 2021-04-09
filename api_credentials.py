@@ -1,0 +1,5 @@
+API_KEY = ''
+AUTH_TOKEN = ''
+USER_ID = ''
+EMAIL = ''
+PASSWORD = ''
